@@ -6,6 +6,9 @@ A responsive hero section built for a frontend/UI developer assignment. The scen
 - React (Vite)
 - Tailwind CSS
 
+##🔗LIVE DEMO
+
+
 ## ✨ Features
 - Trust badge highlighting end-to-end encryption
 - Clear headline + sub-headline communicating the app's value
