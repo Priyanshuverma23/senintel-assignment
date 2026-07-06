@@ -7,7 +7,7 @@ A responsive hero section built for a frontend/UI developer assignment. The scen
 - Tailwind CSS
 
 ##🔗LIVE DEMO
-
+https://priyanshuverma23.github.io/senintel-assignment/
 
 ## ✨ Features
 - Trust badge highlighting end-to-end encryption
